@@ -6,8 +6,8 @@
 }
 
 .navbar li{
-    display: inline-block;
-    padding: 0px 20px;
+    display: inline;
+    padding: 20px;
 }
 
 .navbar a {
@@ -15,9 +15,8 @@
     color: black;
 }
 
-a.blue {
+a.red {
     color: red;
-
 }
 
 .banner{
