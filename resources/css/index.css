@@ -38,4 +38,23 @@ a.red {
 
 .social-selection{
     padding: 20px 50px;
+
+}
+
+.bold{
+    font-weight: 900;
+}
+
+.greets ul{
+    list-style-type: none;
+}
+
+.avatar{
+    background-image: url(../images/bigal2.JPG);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
 }
